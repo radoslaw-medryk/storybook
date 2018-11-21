@@ -1,0 +1,17 @@
+{
+  "name": "@radoslaw-medryk/storybook",
+  "private": true,
+  "scripts": {
+    "start": "start-storybook -p 8080 -c .storybook"
+  },
+  "dependencies": {
+    "@babel/core": "^7.1.2",
+    "@radoslaw-medryk/react-dragdrop": "^0.1.1",
+    "@storybook/addon-actions": "^4.0.7",
+    "@storybook/addon-storysource": "^4.0.8",
+    "@storybook/react": "^4.0.7",
+    "babel-loader": "^8.0.4",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0"
+  }
+}
